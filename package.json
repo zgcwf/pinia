@@ -1,5 +1,5 @@
 {
-  "name": "basic_vue",
+  "name": "pinia_vue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
